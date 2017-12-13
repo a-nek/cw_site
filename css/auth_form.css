@@ -1,0 +1,17 @@
+/*Стиль формы авторизации*/
+
+input{
+  margin-left: 50px;
+  margin-top: 15px;
+
+  width: 170px;
+  height: 25px;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: rgb(185, 185, 185);
+}
+
+.button{
+  margin-bottom: 5px;
+}
+/* конец стилей формы*/

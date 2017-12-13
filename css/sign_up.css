@@ -1,0 +1,20 @@
+#sign_up_form{
+  width: 400px;
+
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: rgb(195, 195, 195);
+  margin-left: 450px;
+  margin-top: 50px;
+
+}
+#sign_up_form input{
+  border-radius: 3px;	
+  margin-left: 100px;
+  width: 200px;
+  height: 30px;
+}
+
+#sign_up_form{
+	padding-bottom: 10px;
+}

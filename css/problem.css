@@ -1,0 +1,55 @@
+/*
+  подключение шрифта
+*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/*
+  font-family: 'Open Sans Condensed', sans-serif;
+*/
+
+h3{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.limits{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+}
+
+.text{
+  font-family: 'Roboto', sans-serif;
+  padding-left: 10px;
+}
+.text a{
+  text-decoration: none;
+}
+
+
+/* Стили таблицы примеров*/
+table{
+  font-family: 'Roboto', sans-serif;
+  border-collapse: collapse;
+}
+.num{
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  width: 55px;
+  border: 1px solid;
+
+  text-align: center;
+}
+
+.in, .out{
+  padding-left: 5px;
+  width: 350px;
+  border: 1px solid;
+
+}
+/* Конец стилей*/
+
+#main{
+  border-bottom: 0px;
+}

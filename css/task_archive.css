@@ -1,0 +1,31 @@
+table{
+
+}
+
+/* Стили заголовков, столбцов таблицы*/
+#num{
+  width: 55px;
+}
+
+#name, #theme{
+  width: 350px;
+}
+
+#decided{
+  width: 100px;
+}
+.num, .name, .theme, .decided{
+  text-align: center;
+}
+/* Конец стилей*/
+
+a{
+  text-decoration: none;
+}
+
+#t_arch{
+  border-bottom: 3px solid rgb(55, 75, 240);
+}
+#main{
+  border-bottom: 0px;
+}

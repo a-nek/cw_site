@@ -1,0 +1,17 @@
+table{
+	
+}
+th {
+  font-weight: normal;
+  color: #039;
+  padding: 10px 15px;
+  border: 0px;
+}
+td {
+  color: #669;
+  border-top: 1px solid #e8edff;
+  padding: 10px 15px;
+  border-right: 0px;
+  border-left: 0px;
+}
+tr:nth-child(2n) {background: #e8edff;}

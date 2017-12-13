@@ -1,0 +1,68 @@
+#add_admin{
+  font-family: 'Open+Sans+Condensed:300', sans-serif;
+  margin-top: -20px;
+  margin-bottom: 7px;
+  border-radius: 5px;
+  width: 850px;
+  float: left;
+  padding-top: 5px;
+  padding-left: 5px;  
+
+  background-color: rgb(255, 255, 255);
+  border: 1px solid;
+  border-color: rgb(185, 185, 185);
+}
+
+.adm_input{
+	margin-left:5px;
+}
+#add_admin .adm_input , .p_input{
+  width: 200px;
+  height: 30px;
+
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: rgb(185, 185, 185);
+  margin-bottom: 5px;
+}
+
+
+/*стили блока добавления задачи*/
+#add_problem{
+  font-family: 'Open+Sans+Condensed:300', sans-serif;
+  margin-bottom: 7px;
+  border-radius: 5px;
+  width: 850px;
+  float: left;
+
+  padding-top: 5px;
+  padding-left: 5px;  
+  padding-bottom: 5px;
+
+  background-color: rgb(255, 255, 255);
+  border: 1px solid;
+  border-color: rgb(185, 185, 185);
+}
+.p_input{
+	float: absolute;
+	margin-left: 5px;
+
+}
+#sel, #p_timelimit{
+	width: 410px;
+	height: 30px;
+	border-radius: 3px;
+}
+#input_t{
+	margin-top: 10px;
+	width: 600px;
+	height: 200px;
+}
+#add_data{
+	margin-bottom: 10px;
+}
+#add_problem p{
+	margin-left: 5px;
+}
+
+/* конец стилей*/
